@@ -1,0 +1,4 @@
+Extracted from Persona.zip / Persona/UDL_P.P/.
+For code review only: datasets, generated agents, session logs, reports, Python virtualenv, build and executable outputs, and config/llm_config.yaml were intentionally excluded.
+If the application needs runtime data/config, provide it separately after removing private information.
+Before publishing on GitHub, review all content for credentials, personal data, and licensing.

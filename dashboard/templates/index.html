@@ -1,0 +1,21 @@
+<!doctype html>
+<html lang="ko">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>변전소 주민 숙의</title>
+  <link rel="stylesheet" href="/static/dashboard.css">
+</head>
+<body>
+  <main>
+    <header><div><p class="eyebrow">LOCAL RESEARCH DASHBOARD</p><h1>변전소 주민 숙의</h1><p id="action">회의 상태를 불러오는 중</p></div><div class="status"><strong id="percent">0%</strong><span id="state">대기</span></div></header>
+    <section class="progress"><div id="bar"></div></section>
+    <section class="metrics"><div><span>선택 군집</span><strong id="k">-</strong></div><div><span>실루엣</span><strong id="silhouette">-</strong></div><div><span>재표본 ARI</span><strong id="ari">-</strong></div><div><span>Ward 일치도</span><strong id="ward">-</strong></div></section>
+    <section><h2>주민 패널</h2><div id="personas" class="persona-grid"></div></section>
+    <section class="proposal"><h2>현재 검토안</h2><ul id="proposal-list"><li>회의를 시작하면 검토안이 표시됩니다.</li></ul></section>
+    <section><h2>회의록</h2><div id="rounds" class="timeline"></div></section>
+    <p class="note">102명 파일럿 설문 기반의 주민 합의 예측 프로토타입입니다. 실제 주민회의·정책 의결을 대체하지 않습니다.</p>
+  </main>
+  <script src="/static/dashboard.js"></script>
+</body>
+</html>

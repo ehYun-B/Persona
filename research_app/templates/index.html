@@ -1,0 +1,136 @@
+<!doctype html>
+<html lang="ko">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>비선호시설 주민 숙의 연구</title>
+  <link rel="stylesheet" href="/static/app.css">
+  <style>
+    .mode-toggle { display:flex; gap:6px; margin:12px 0; }
+    .automatic-coverage { display:grid; grid-template-columns:repeat(2,minmax(0,1fr)); gap:8px; margin:12px 0; }
+    .automatic-item { border:1px solid #cbd8dc; background:#fff; }
+    .automatic-item summary { display:flex; align-items:center; gap:8px; min-height:38px; padding:8px 10px; cursor:pointer; list-style:none; }
+    .automatic-item summary::-webkit-details-marker { display:none; }
+    .automatic-item summary:before { content:'+'; color:#087e8b; font-weight:800; }
+    .automatic-item[open] summary:before { content:'-'; }
+    .automatic-item summary strong { flex:1; font-size:12px; }
+    .automatic-item small { color:#61717a; font-size:10px; }
+    .auto-count { padding:3px 6px; background:#eaf5f5; color:#216a73; font-size:10px; font-weight:700; }
+    .automatic-item ol { margin:0; padding:7px 12px 9px 28px; border-top:1px solid #dce5e8; color:#586870; font-size:11px; line-height:1.45; }
+    .automatic-item li { padding:2px 0; }
+    .region-search { display:grid; grid-template-columns:minmax(0,1fr); gap:8px; }
+    .region-select { width:100%; min-height:196px; margin-top:6px; }
+    .region-selection { margin:10px 0 0; padding:9px 10px; border-left:3px solid #087e8b; background:#eef8f8; color:#27434a; font-size:12px; line-height:1.45; }
+    .source-status { margin:8px 0 0; font-size:11px; color:#536871; }
+    .source-status.connected { color:#197145; }
+    .source-status.unavailable, .source-status.schema_error { color:#a23c35; }
+    @media (max-width:760px) { .automatic-coverage { grid-template-columns:1fr; } }
+  </style>
+</head>
+<body>
+  <header class="app-header">
+    <div class="brand"><span class="brand-mark">UD</span><div><strong>비선호시설 주민 숙의 연구</strong><small id="session-label">연구 세션 준비 중</small></div></div>
+    <div class="header-status"><span id="mode-label">전국 표본 기반 지역 맥락 시뮬레이션</span><span class="status-dot" id="app-status">준비</span></div>
+  </header>
+  <main class="workspace">
+    <nav class="step-nav" aria-label="연구 단계">
+      <button class="step active" data-target="setup"><b>01</b><span>시설·지역</span></button>
+      <button class="step" data-target="survey"><b>02</b><span>설문·군집</span></button>
+      <button class="step" data-target="panel"><b>03</b><span>주민 패널</span></button>
+      <button class="step" data-target="discussion"><b>04</b><span>숙의</span></button>
+      <button class="step" data-target="results"><b>05</b><span>결과</span></button>
+    </nav>
+
+    <section id="setup" class="view active">
+      <div class="section-heading"><div><p class="eyebrow">RESEARCH CONTEXT</p><h1>시설과 생활권</h1></div><button id="save-config" class="primary">설정 저장</button></div>
+      <div class="split two-col">
+        <div class="tool-surface">
+          <h2>비선호시설</h2>
+          <label for="facility-select">예시 템플릿</label>
+          <select id="facility-select"></select>
+          <label for="custom-facility">직접 입력</label>
+          <input id="custom-facility" placeholder="예: 자원회수시설">
+          <p id="facility-summary" class="field-note"></p>
+        </div>
+        <div class="tool-surface">
+          <h2>대상 생활권</h2>
+          <input id="province" type="hidden">
+          <input id="district" type="hidden">
+          <div class="region-search">
+            <label for="region-search">지역 검색<input id="region-search" type="search" placeholder="예: 화성, 경기도, 서울 강남"></label>
+            <label for="region-select">목록에서 선택<select id="region-select" class="region-select" size="7" aria-describedby="region-selection"></select></label>
+          </div>
+          <p id="region-selection" class="region-selection">지역 목록을 불러오는 중입니다.</p>
+          <p id="data-source-status" class="source-status">NVIDIA 주민 배경 데이터셋 연결 상태를 확인하는 중입니다.</p>
+          <p class="field-note">지역은 목록에서 선택하며, 내부적으로 NVIDIA 데이터셋의 정확한 지역 키로 저장됩니다. 전국 설문 태도와 지역 배경 서사는 별도로 해석합니다.</p>
+        </div>
+      </div>
+      <div class="tool-surface scenario-editor">
+        <div class="surface-heading"><h2>토론 시나리오</h2><span>사용자 검토·승인 항목</span></div>
+        <label for="concerns">주요 쟁점 <small>줄바꿈으로 구분</small></label>
+        <textarea id="concerns" rows="3"></textarea>
+        <label for="initial-offer">최초 사업자 제안 <small>줄바꿈으로 구분</small></label>
+        <textarea id="initial-offer" rows="5"></textarea>
+        <div id="deliberation-guide" class="deliberation-guide"></div>
+      </div>
+    </section>
+
+    <section id="survey" class="view">
+      <div class="section-heading"><div><p class="eyebrow">NATIONWIDE SURVEY</p><h1>설문과 군집분석</h1></div><a class="secondary" href="/api/survey/template">표준 입력양식</a></div>
+      <div class="tool-surface upload-surface">
+        <div><h2>설문 데이터 가져오기</h2><p class="field-note">CSV 또는 Excel 파일을 넣으면 질문 문구를 읽어 자동 분석을 추천합니다. 연구자가 직접 항목을 연결하는 수동 모드도 사용할 수 있습니다.</p></div>
+        <label class="file-control"><input id="survey-file" type="file" accept=".csv,.xlsx,.xls"><span>파일 선택</span></label>
+        <span id="survey-file-name" class="file-name">선택된 파일 없음</span>
+      </div>
+      <div id="mapping-surface" class="tool-surface hidden">
+        <div class="surface-heading"><h2>분석 항목 연결</h2><span id="survey-row-count"></span></div>
+        <div class="mode-toggle" role="tablist"><button id="mode-automatic" class="primary" type="button" role="tab">자동 분석</button><button id="mode-manual" class="secondary" type="button" role="tab">수동 선택</button></div>
+        <div id="automatic-analysis-panel">
+          <p id="automatic-method-note" class="field-note"></p>
+          <div id="automatic-coverage" class="automatic-coverage"></div>
+          <p id="automatic-warning" class="notice hidden"></p>
+        </div>
+        <div id="manual-analysis-panel" class="hidden"><div id="mapping-grid" class="mapping-grid"></div></div>
+        <div class="analysis-controls"><label>최소 k<input id="min-k" type="number" min="2" max="12" value="2"></label><label>최대 k<input id="max-k" type="number" min="2" max="12" value="6"></label><button id="analyze-automatic" class="primary" type="button">자동 군집분석 실행</button><button id="analyze-survey" class="primary hidden" type="button">수동 군집분석 실행</button></div>
+      </div>
+      <div id="cluster-output" class="cluster-output"></div>
+    </section>
+
+    <section id="panel" class="view">
+      <div class="section-heading"><div><p class="eyebrow">PANEL CONSTRUCTION</p><h1>군집별 주민 패널</h1></div><button id="generate-panel" class="primary">지역 배경 페르소나 생성</button></div>
+      <div id="panel-meta" class="notice">군집분석 결과를 바탕으로 각 군집의 대표·갈등 민감·조건부 수용 주민을 선택합니다.</div>
+      <div id="panel-progress" class="discussion-status hidden" aria-live="polite"><div><strong id="panel-percent">0%</strong><span id="panel-state">대기</span></div><p id="panel-action">주민 패널을 생성하면 진행 상태가 표시됩니다.</p><div class="progress"><span id="panel-progress-bar"></span></div></div>
+      <div id="persona-grid" class="persona-grid"></div>
+    </section>
+
+    <section id="discussion" class="view">
+      <div class="section-heading"><div><p class="eyebrow">MODERATED DELIBERATION</p><h1>주민 토론</h1></div><div class="button-group"><button id="repeat-discussion" class="secondary" type="button">새 시드 반복</button><button id="stop-discussion" class="secondary" type="button" disabled>토론 중지</button><button id="start-discussion" class="primary">토론 시작</button></div></div>
+      <div class="discussion-status"><div><strong id="discussion-percent">0%</strong><span id="discussion-state">대기</span><span id="discussion-elapsed" class="elapsed-time">경과 00:00:00</span></div><p id="discussion-action">주민 패널을 생성한 뒤 토론을 시작하세요.</p><div class="progress"><span id="progress-bar"></span></div></div>
+      <section id="system-log-panel" class="tool-surface system-log hidden" aria-live="polite">
+        <div class="surface-heading"><div><h2>실행 로그</h2><p class="field-note">오류가 발생했을 때 원인을 확인할 수 있습니다.</p></div><button id="refresh-log" class="secondary" type="button">로그 새로고침</button></div>
+        <pre id="system-log-content"></pre>
+      </section>
+      <div class="split two-col discussion-layout">
+        <div class="tool-surface"><h2>현재 사업자안 또는 주민 문안</h2><ol id="proposal-list"><li>토론 시작 전입니다.</li></ol></div>
+        <div class="tool-surface"><h2>주민 문안 검토</h2><div id="pulse-summary" class="check-summary">아직 주민 문안 검토 기록이 없습니다.</div></div>
+      </div>
+      <div class="tool-surface transcript-surface"><h2>회의록</h2><div id="transcript" class="transcript"></div></div>
+    </section>
+
+    <section id="results" class="view">
+      <div class="section-heading"><div><p class="eyebrow">SESSION OUTPUT</p><h1>결과와 분석</h1></div><div class="button-group"><button id="download-report" class="primary" type="button">보고서 내려받기</button><button id="refresh-results" class="secondary">결과 새로고침</button></div></div>
+      <div id="result-summary" class="result-summary"></div>
+      <div class="analysis-tabs" role="tablist">
+        <button class="analysis-tab active" data-analysis-tab="overview" role="tab">합의 결과</button>
+        <button class="analysis-tab" data-analysis-tab="clusters" role="tab">군집별 반응</button>
+        <button class="analysis-tab" data-analysis-tab="issues" role="tab">쟁점·주민 문안</button>
+        <button class="analysis-tab" data-analysis-tab="process" role="tab">토론 과정</button>
+        <button class="analysis-tab" data-analysis-tab="quality" role="tab">재현·해석</button>
+      </div>
+      <div id="analysis-content" class="analysis-content"></div>
+    </section>
+  </main>
+  <div id="toast" class="toast" role="status"></div>
+  <script src="/static/app.js"></script>
+</body>
+</html>

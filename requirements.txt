@@ -1,0 +1,14 @@
+requests
+flask>=3.0,<4
+pandas
+numpy
+duckdb>=1.1,<2
+scikit-learn
+matplotlib
+jupyter
+pyyaml
+python-dotenv
+openpyxl>=3.1,<4
+python-docx>=1.2,<2
+pywebview>=6.2
+pyinstaller>=6.0

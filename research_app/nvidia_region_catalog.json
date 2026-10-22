@@ -1,0 +1,2270 @@
+[
+  {
+    "id": "강원-강릉시",
+    "display": "강원특별자치도 강릉시",
+    "province": "강원",
+    "province_display": "강원특별자치도",
+    "district": "강원-강릉시",
+    "district_display": "강릉시",
+    "search_text": "강원특별자치도 강릉시 강원 강원-강릉시 강릉시"
+  },
+  {
+    "id": "강원-고성군",
+    "display": "강원특별자치도 고성군",
+    "province": "강원",
+    "province_display": "강원특별자치도",
+    "district": "강원-고성군",
+    "district_display": "고성군",
+    "search_text": "강원특별자치도 고성군 강원 강원-고성군 고성군"
+  },
+  {
+    "id": "강원-동해시",
+    "display": "강원특별자치도 동해시",
+    "province": "강원",
+    "province_display": "강원특별자치도",
+    "district": "강원-동해시",
+    "district_display": "동해시",
+    "search_text": "강원특별자치도 동해시 강원 강원-동해시 동해시"
+  },
+  {
+    "id": "강원-삼척시",
+    "display": "강원특별자치도 삼척시",
+    "province": "강원",
+    "province_display": "강원특별자치도",
+    "district": "강원-삼척시",
+    "district_display": "삼척시",
+    "search_text": "강원특별자치도 삼척시 강원 강원-삼척시 삼척시"
+  },
+  {
+    "id": "강원-속초시",
+    "display": "강원특별자치도 속초시",
+    "province": "강원",
+    "province_display": "강원특별자치도",
+    "district": "강원-속초시",
+    "district_display": "속초시",
+    "search_text": "강원특별자치도 속초시 강원 강원-속초시 속초시"
+  },
+  {
+    "id": "강원-양구군",
+    "display": "강원특별자치도 양구군",
+    "province": "강원",
+    "province_display": "강원특별자치도",
+    "district": "강원-양구군",
+    "district_display": "양구군",
+    "search_text": "강원특별자치도 양구군 강원 강원-양구군 양구군"
+  },
+  {
+    "id": "강원-양양군",
+    "display": "강원특별자치도 양양군",
+    "province": "강원",
+    "province_display": "강원특별자치도",
+    "district": "강원-양양군",
+    "district_display": "양양군",
+    "search_text": "강원특별자치도 양양군 강원 강원-양양군 양양군"
+  },
+  {
+    "id": "강원-영월군",
+    "display": "강원특별자치도 영월군",
+    "province": "강원",
+    "province_display": "강원특별자치도",
+    "district": "강원-영월군",
+    "district_display": "영월군",
+    "search_text": "강원특별자치도 영월군 강원 강원-영월군 영월군"
+  },
+  {
+    "id": "강원-원주시",
+    "display": "강원특별자치도 원주시",
+    "province": "강원",
+    "province_display": "강원특별자치도",
+    "district": "강원-원주시",
+    "district_display": "원주시",
+    "search_text": "강원특별자치도 원주시 강원 강원-원주시 원주시"
+  },
+  {
+    "id": "강원-인제군",
+    "display": "강원특별자치도 인제군",
+    "province": "강원",
+    "province_display": "강원특별자치도",
+    "district": "강원-인제군",
+    "district_display": "인제군",
+    "search_text": "강원특별자치도 인제군 강원 강원-인제군 인제군"
+  },
+  {
+    "id": "강원-정선군",
+    "display": "강원특별자치도 정선군",
+    "province": "강원",
+    "province_display": "강원특별자치도",
+    "district": "강원-정선군",
+    "district_display": "정선군",
+    "search_text": "강원특별자치도 정선군 강원 강원-정선군 정선군"
+  },
+  {
+    "id": "강원-철원군",
+    "display": "강원특별자치도 철원군",
+    "province": "강원",
+    "province_display": "강원특별자치도",
+    "district": "강원-철원군",
+    "district_display": "철원군",
+    "search_text": "강원특별자치도 철원군 강원 강원-철원군 철원군"
+  },
+  {
+    "id": "강원-춘천시",
+    "display": "강원특별자치도 춘천시",
+    "province": "강원",
+    "province_display": "강원특별자치도",
+    "district": "강원-춘천시",
+    "district_display": "춘천시",
+    "search_text": "강원특별자치도 춘천시 강원 강원-춘천시 춘천시"
+  },
+  {
+    "id": "강원-태백시",
+    "display": "강원특별자치도 태백시",
+    "province": "강원",
+    "province_display": "강원특별자치도",
+    "district": "강원-태백시",
+    "district_display": "태백시",
+    "search_text": "강원특별자치도 태백시 강원 강원-태백시 태백시"
+  },
+  {
+    "id": "강원-평창군",
+    "display": "강원특별자치도 평창군",
+    "province": "강원",
+    "province_display": "강원특별자치도",
+    "district": "강원-평창군",
+    "district_display": "평창군",
+    "search_text": "강원특별자치도 평창군 강원 강원-평창군 평창군"
+  },
+  {
+    "id": "강원-홍천군",
+    "display": "강원특별자치도 홍천군",
+    "province": "강원",
+    "province_display": "강원특별자치도",
+    "district": "강원-홍천군",
+    "district_display": "홍천군",
+    "search_text": "강원특별자치도 홍천군 강원 강원-홍천군 홍천군"
+  },
+  {
+    "id": "강원-화천군",
+    "display": "강원특별자치도 화천군",
+    "province": "강원",
+    "province_display": "강원특별자치도",
+    "district": "강원-화천군",
+    "district_display": "화천군",
+    "search_text": "강원특별자치도 화천군 강원 강원-화천군 화천군"
+  },
+  {
+    "id": "강원-횡성군",
+    "display": "강원특별자치도 횡성군",
+    "province": "강원",
+    "province_display": "강원특별자치도",
+    "district": "강원-횡성군",
+    "district_display": "횡성군",
+    "search_text": "강원특별자치도 횡성군 강원 강원-횡성군 횡성군"
+  },
+  {
+    "id": "경기-가평군",
+    "display": "경기도 가평군",
+    "province": "경기",
+    "province_display": "경기도",
+    "district": "경기-가평군",
+    "district_display": "가평군",
+    "search_text": "경기도 가평군 경기 경기-가평군 가평군"
+  },
+  {
+    "id": "경기-고양시 덕양구",
+    "display": "경기도 고양시 덕양구",
+    "province": "경기",
+    "province_display": "경기도",
+    "district": "경기-고양시 덕양구",
+    "district_display": "고양시 덕양구",
+    "search_text": "경기도 고양시 덕양구 경기 경기-고양시 덕양구 고양시 덕양구"
+  },
+  {
+    "id": "경기-고양시 일산동구",
+    "display": "경기도 고양시 일산동구",
+    "province": "경기",
+    "province_display": "경기도",
+    "district": "경기-고양시 일산동구",
+    "district_display": "고양시 일산동구",
+    "search_text": "경기도 고양시 일산동구 경기 경기-고양시 일산동구 고양시 일산동구"
+  },
+  {
+    "id": "경기-고양시 일산서구",
+    "display": "경기도 고양시 일산서구",
+    "province": "경기",
+    "province_display": "경기도",
+    "district": "경기-고양시 일산서구",
+    "district_display": "고양시 일산서구",
+    "search_text": "경기도 고양시 일산서구 경기 경기-고양시 일산서구 고양시 일산서구"
+  },
+  {
+    "id": "경기-과천시",
+    "display": "경기도 과천시",
+    "province": "경기",
+    "province_display": "경기도",
+    "district": "경기-과천시",
+    "district_display": "과천시",
+    "search_text": "경기도 과천시 경기 경기-과천시 과천시"
+  },
+  {
+    "id": "경기-광명시",
+    "display": "경기도 광명시",
+    "province": "경기",
+    "province_display": "경기도",
+    "district": "경기-광명시",
+    "district_display": "광명시",
+    "search_text": "경기도 광명시 경기 경기-광명시 광명시"
+  },
+  {
+    "id": "경기-광주시",
+    "display": "경기도 광주시",
+    "province": "경기",
+    "province_display": "경기도",
+    "district": "경기-광주시",
+    "district_display": "광주시",
+    "search_text": "경기도 광주시 경기 경기-광주시 광주시"
+  },
+  {
+    "id": "경기-구리시",
+    "display": "경기도 구리시",
+    "province": "경기",
+    "province_display": "경기도",
+    "district": "경기-구리시",
+    "district_display": "구리시",
+    "search_text": "경기도 구리시 경기 경기-구리시 구리시"
+  },
+  {
+    "id": "경기-군포시",
+    "display": "경기도 군포시",
+    "province": "경기",
+    "province_display": "경기도",
+    "district": "경기-군포시",
+    "district_display": "군포시",
+    "search_text": "경기도 군포시 경기 경기-군포시 군포시"
+  },
+  {
+    "id": "경기-김포시",
+    "display": "경기도 김포시",
+    "province": "경기",
+    "province_display": "경기도",
+    "district": "경기-김포시",
+    "district_display": "김포시",
+    "search_text": "경기도 김포시 경기 경기-김포시 김포시"
+  },
+  {
+    "id": "경기-남양주시",
+    "display": "경기도 남양주시",
+    "province": "경기",
+    "province_display": "경기도",
+    "district": "경기-남양주시",
+    "district_display": "남양주시",
+    "search_text": "경기도 남양주시 경기 경기-남양주시 남양주시"
+  },
+  {
+    "id": "경기-동두천시",
+    "display": "경기도 동두천시",
+    "province": "경기",
+    "province_display": "경기도",
+    "district": "경기-동두천시",
+    "district_display": "동두천시",
+    "search_text": "경기도 동두천시 경기 경기-동두천시 동두천시"
+  },
+  {
+    "id": "경기-부천시 소사구",
+    "display": "경기도 부천시 소사구",
+    "province": "경기",
+    "province_display": "경기도",
+    "district": "경기-부천시 소사구",
+    "district_display": "부천시 소사구",
+    "search_text": "경기도 부천시 소사구 경기 경기-부천시 소사구 부천시 소사구"
+  },
+  {
+    "id": "경기-부천시 오정구",
+    "display": "경기도 부천시 오정구",
+    "province": "경기",
+    "province_display": "경기도",
+    "district": "경기-부천시 오정구",
+    "district_display": "부천시 오정구",
+    "search_text": "경기도 부천시 오정구 경기 경기-부천시 오정구 부천시 오정구"
+  },
+  {
+    "id": "경기-부천시 원미구",
+    "display": "경기도 부천시 원미구",
+    "province": "경기",
+    "province_display": "경기도",
+    "district": "경기-부천시 원미구",
+    "district_display": "부천시 원미구",
+    "search_text": "경기도 부천시 원미구 경기 경기-부천시 원미구 부천시 원미구"
+  },
+  {
+    "id": "경기-성남시 분당구",
+    "display": "경기도 성남시 분당구",
+    "province": "경기",
+    "province_display": "경기도",
+    "district": "경기-성남시 분당구",
+    "district_display": "성남시 분당구",
+    "search_text": "경기도 성남시 분당구 경기 경기-성남시 분당구 성남시 분당구"
+  },
+  {
+    "id": "경기-성남시 수정구",
+    "display": "경기도 성남시 수정구",
+    "province": "경기",
+    "province_display": "경기도",
+    "district": "경기-성남시 수정구",
+    "district_display": "성남시 수정구",
+    "search_text": "경기도 성남시 수정구 경기 경기-성남시 수정구 성남시 수정구"
+  },
+  {
+    "id": "경기-성남시 중원구",
+    "display": "경기도 성남시 중원구",
+    "province": "경기",
+    "province_display": "경기도",
+    "district": "경기-성남시 중원구",
+    "district_display": "성남시 중원구",
+    "search_text": "경기도 성남시 중원구 경기 경기-성남시 중원구 성남시 중원구"
+  },
+  {
+    "id": "경기-수원시 권선구",
+    "display": "경기도 수원시 권선구",
+    "province": "경기",
+    "province_display": "경기도",
+    "district": "경기-수원시 권선구",
+    "district_display": "수원시 권선구",
+    "search_text": "경기도 수원시 권선구 경기 경기-수원시 권선구 수원시 권선구"
+  },
+  {
+    "id": "경기-수원시 영통구",
+    "display": "경기도 수원시 영통구",
+    "province": "경기",
+    "province_display": "경기도",
+    "district": "경기-수원시 영통구",
+    "district_display": "수원시 영통구",
+    "search_text": "경기도 수원시 영통구 경기 경기-수원시 영통구 수원시 영통구"
+  },
+  {
+    "id": "경기-수원시 장안구",
+    "display": "경기도 수원시 장안구",
+    "province": "경기",
+    "province_display": "경기도",
+    "district": "경기-수원시 장안구",
+    "district_display": "수원시 장안구",
+    "search_text": "경기도 수원시 장안구 경기 경기-수원시 장안구 수원시 장안구"
+  },
+  {
+    "id": "경기-수원시 팔달구",
+    "display": "경기도 수원시 팔달구",
+    "province": "경기",
+    "province_display": "경기도",
+    "district": "경기-수원시 팔달구",
+    "district_display": "수원시 팔달구",
+    "search_text": "경기도 수원시 팔달구 경기 경기-수원시 팔달구 수원시 팔달구"
+  },
+  {
+    "id": "경기-시흥시",
+    "display": "경기도 시흥시",
+    "province": "경기",
+    "province_display": "경기도",
+    "district": "경기-시흥시",
+    "district_display": "시흥시",
+    "search_text": "경기도 시흥시 경기 경기-시흥시 시흥시"
+  },
+  {
+    "id": "경기-안산시 단원구",
+    "display": "경기도 안산시 단원구",
+    "province": "경기",
+    "province_display": "경기도",
+    "district": "경기-안산시 단원구",
+    "district_display": "안산시 단원구",
+    "search_text": "경기도 안산시 단원구 경기 경기-안산시 단원구 안산시 단원구"
+  },
+  {
+    "id": "경기-안산시 상록구",
+    "display": "경기도 안산시 상록구",
+    "province": "경기",
+    "province_display": "경기도",
+    "district": "경기-안산시 상록구",
+    "district_display": "안산시 상록구",
+    "search_text": "경기도 안산시 상록구 경기 경기-안산시 상록구 안산시 상록구"
+  },
+  {
+    "id": "경기-안성시",
+    "display": "경기도 안성시",
+    "province": "경기",
+    "province_display": "경기도",
+    "district": "경기-안성시",
+    "district_display": "안성시",
+    "search_text": "경기도 안성시 경기 경기-안성시 안성시"
+  },
+  {
+    "id": "경기-안양시 동안구",
+    "display": "경기도 안양시 동안구",
+    "province": "경기",
+    "province_display": "경기도",
+    "district": "경기-안양시 동안구",
+    "district_display": "안양시 동안구",
+    "search_text": "경기도 안양시 동안구 경기 경기-안양시 동안구 안양시 동안구"
+  },
+  {
+    "id": "경기-안양시 만안구",
+    "display": "경기도 안양시 만안구",
+    "province": "경기",
+    "province_display": "경기도",
+    "district": "경기-안양시 만안구",
+    "district_display": "안양시 만안구",
+    "search_text": "경기도 안양시 만안구 경기 경기-안양시 만안구 안양시 만안구"
+  },
+  {
+    "id": "경기-양주시",
+    "display": "경기도 양주시",
+    "province": "경기",
+    "province_display": "경기도",
+    "district": "경기-양주시",
+    "district_display": "양주시",
+    "search_text": "경기도 양주시 경기 경기-양주시 양주시"
+  },
+  {
+    "id": "경기-양평군",
+    "display": "경기도 양평군",
+    "province": "경기",
+    "province_display": "경기도",
+    "district": "경기-양평군",
+    "district_display": "양평군",
+    "search_text": "경기도 양평군 경기 경기-양평군 양평군"
+  },
+  {
+    "id": "경기-여주시",
+    "display": "경기도 여주시",
+    "province": "경기",
+    "province_display": "경기도",
+    "district": "경기-여주시",
+    "district_display": "여주시",
+    "search_text": "경기도 여주시 경기 경기-여주시 여주시"
+  },
+  {
+    "id": "경기-연천군",
+    "display": "경기도 연천군",
+    "province": "경기",
+    "province_display": "경기도",
+    "district": "경기-연천군",
+    "district_display": "연천군",
+    "search_text": "경기도 연천군 경기 경기-연천군 연천군"
+  },
+  {
+    "id": "경기-오산시",
+    "display": "경기도 오산시",
+    "province": "경기",
+    "province_display": "경기도",
+    "district": "경기-오산시",
+    "district_display": "오산시",
+    "search_text": "경기도 오산시 경기 경기-오산시 오산시"
+  },
+  {
+    "id": "경기-용인시 기흥구",
+    "display": "경기도 용인시 기흥구",
+    "province": "경기",
+    "province_display": "경기도",
+    "district": "경기-용인시 기흥구",
+    "district_display": "용인시 기흥구",
+    "search_text": "경기도 용인시 기흥구 경기 경기-용인시 기흥구 용인시 기흥구"
+  },
+  {
+    "id": "경기-용인시 수지구",
+    "display": "경기도 용인시 수지구",
+    "province": "경기",
+    "province_display": "경기도",
+    "district": "경기-용인시 수지구",
+    "district_display": "용인시 수지구",
+    "search_text": "경기도 용인시 수지구 경기 경기-용인시 수지구 용인시 수지구"
+  },
+  {
+    "id": "경기-용인시 처인구",
+    "display": "경기도 용인시 처인구",
+    "province": "경기",
+    "province_display": "경기도",
+    "district": "경기-용인시 처인구",
+    "district_display": "용인시 처인구",
+    "search_text": "경기도 용인시 처인구 경기 경기-용인시 처인구 용인시 처인구"
+  },
+  {
+    "id": "경기-의왕시",
+    "display": "경기도 의왕시",
+    "province": "경기",
+    "province_display": "경기도",
+    "district": "경기-의왕시",
+    "district_display": "의왕시",
+    "search_text": "경기도 의왕시 경기 경기-의왕시 의왕시"
+  },
+  {
+    "id": "경기-의정부시",
+    "display": "경기도 의정부시",
+    "province": "경기",
+    "province_display": "경기도",
+    "district": "경기-의정부시",
+    "district_display": "의정부시",
+    "search_text": "경기도 의정부시 경기 경기-의정부시 의정부시"
+  },
+  {
+    "id": "경기-이천시",
+    "display": "경기도 이천시",
+    "province": "경기",
+    "province_display": "경기도",
+    "district": "경기-이천시",
+    "district_display": "이천시",
+    "search_text": "경기도 이천시 경기 경기-이천시 이천시"
+  },
+  {
+    "id": "경기-파주시",
+    "display": "경기도 파주시",
+    "province": "경기",
+    "province_display": "경기도",
+    "district": "경기-파주시",
+    "district_display": "파주시",
+    "search_text": "경기도 파주시 경기 경기-파주시 파주시"
+  },
+  {
+    "id": "경기-평택시",
+    "display": "경기도 평택시",
+    "province": "경기",
+    "province_display": "경기도",
+    "district": "경기-평택시",
+    "district_display": "평택시",
+    "search_text": "경기도 평택시 경기 경기-평택시 평택시"
+  },
+  {
+    "id": "경기-포천시",
+    "display": "경기도 포천시",
+    "province": "경기",
+    "province_display": "경기도",
+    "district": "경기-포천시",
+    "district_display": "포천시",
+    "search_text": "경기도 포천시 경기 경기-포천시 포천시"
+  },
+  {
+    "id": "경기-하남시",
+    "display": "경기도 하남시",
+    "province": "경기",
+    "province_display": "경기도",
+    "district": "경기-하남시",
+    "district_display": "하남시",
+    "search_text": "경기도 하남시 경기 경기-하남시 하남시"
+  },
+  {
+    "id": "경기-화성시",
+    "display": "경기도 화성시",
+    "province": "경기",
+    "province_display": "경기도",
+    "district": "경기-화성시",
+    "district_display": "화성시",
+    "search_text": "경기도 화성시 경기 경기-화성시 화성시"
+  },
+  {
+    "id": "경상남-거제시",
+    "display": "경상남 거제시",
+    "province": "경상남",
+    "province_display": "경상남",
+    "district": "경상남-거제시",
+    "district_display": "거제시",
+    "search_text": "경상남 거제시 경상남 경상남-거제시 거제시"
+  },
+  {
+    "id": "경상남-거창군",
+    "display": "경상남 거창군",
+    "province": "경상남",
+    "province_display": "경상남",
+    "district": "경상남-거창군",
+    "district_display": "거창군",
+    "search_text": "경상남 거창군 경상남 경상남-거창군 거창군"
+  },
+  {
+    "id": "경상남-고성군",
+    "display": "경상남 고성군",
+    "province": "경상남",
+    "province_display": "경상남",
+    "district": "경상남-고성군",
+    "district_display": "고성군",
+    "search_text": "경상남 고성군 경상남 경상남-고성군 고성군"
+  },
+  {
+    "id": "경상남-김해시",
+    "display": "경상남 김해시",
+    "province": "경상남",
+    "province_display": "경상남",
+    "district": "경상남-김해시",
+    "district_display": "김해시",
+    "search_text": "경상남 김해시 경상남 경상남-김해시 김해시"
+  },
+  {
+    "id": "경상남-남해군",
+    "display": "경상남 남해군",
+    "province": "경상남",
+    "province_display": "경상남",
+    "district": "경상남-남해군",
+    "district_display": "남해군",
+    "search_text": "경상남 남해군 경상남 경상남-남해군 남해군"
+  },
+  {
+    "id": "경상남-밀양시",
+    "display": "경상남 밀양시",
+    "province": "경상남",
+    "province_display": "경상남",
+    "district": "경상남-밀양시",
+    "district_display": "밀양시",
+    "search_text": "경상남 밀양시 경상남 경상남-밀양시 밀양시"
+  },
+  {
+    "id": "경상남-사천시",
+    "display": "경상남 사천시",
+    "province": "경상남",
+    "province_display": "경상남",
+    "district": "경상남-사천시",
+    "district_display": "사천시",
+    "search_text": "경상남 사천시 경상남 경상남-사천시 사천시"
+  },
+  {
+    "id": "경상남-산청군",
+    "display": "경상남 산청군",
+    "province": "경상남",
+    "province_display": "경상남",
+    "district": "경상남-산청군",
+    "district_display": "산청군",
+    "search_text": "경상남 산청군 경상남 경상남-산청군 산청군"
+  },
+  {
+    "id": "경상남-양산시",
+    "display": "경상남 양산시",
+    "province": "경상남",
+    "province_display": "경상남",
+    "district": "경상남-양산시",
+    "district_display": "양산시",
+    "search_text": "경상남 양산시 경상남 경상남-양산시 양산시"
+  },
+  {
+    "id": "경상남-의령군",
+    "display": "경상남 의령군",
+    "province": "경상남",
+    "province_display": "경상남",
+    "district": "경상남-의령군",
+    "district_display": "의령군",
+    "search_text": "경상남 의령군 경상남 경상남-의령군 의령군"
+  },
+  {
+    "id": "경상남-진주시",
+    "display": "경상남 진주시",
+    "province": "경상남",
+    "province_display": "경상남",
+    "district": "경상남-진주시",
+    "district_display": "진주시",
+    "search_text": "경상남 진주시 경상남 경상남-진주시 진주시"
+  },
+  {
+    "id": "경상남-창녕군",
+    "display": "경상남 창녕군",
+    "province": "경상남",
+    "province_display": "경상남",
+    "district": "경상남-창녕군",
+    "district_display": "창녕군",
+    "search_text": "경상남 창녕군 경상남 경상남-창녕군 창녕군"
+  },
+  {
+    "id": "경상남-창원시 마산합포구",
+    "display": "경상남 창원시 마산합포구",
+    "province": "경상남",
+    "province_display": "경상남",
+    "district": "경상남-창원시 마산합포구",
+    "district_display": "창원시 마산합포구",
+    "search_text": "경상남 창원시 마산합포구 경상남 경상남-창원시 마산합포구 창원시 마산합포구"
+  },
+  {
+    "id": "경상남-창원시 마산회원구",
+    "display": "경상남 창원시 마산회원구",
+    "province": "경상남",
+    "province_display": "경상남",
+    "district": "경상남-창원시 마산회원구",
+    "district_display": "창원시 마산회원구",
+    "search_text": "경상남 창원시 마산회원구 경상남 경상남-창원시 마산회원구 창원시 마산회원구"
+  },
+  {
+    "id": "경상남-창원시 성산구",
+    "display": "경상남 창원시 성산구",
+    "province": "경상남",
+    "province_display": "경상남",
+    "district": "경상남-창원시 성산구",
+    "district_display": "창원시 성산구",
+    "search_text": "경상남 창원시 성산구 경상남 경상남-창원시 성산구 창원시 성산구"
+  },
+  {
+    "id": "경상남-창원시 의창구",
+    "display": "경상남 창원시 의창구",
+    "province": "경상남",
+    "province_display": "경상남",
+    "district": "경상남-창원시 의창구",
+    "district_display": "창원시 의창구",
+    "search_text": "경상남 창원시 의창구 경상남 경상남-창원시 의창구 창원시 의창구"
+  },
+  {
+    "id": "경상남-창원시 진해구",
+    "display": "경상남 창원시 진해구",
+    "province": "경상남",
+    "province_display": "경상남",
+    "district": "경상남-창원시 진해구",
+    "district_display": "창원시 진해구",
+    "search_text": "경상남 창원시 진해구 경상남 경상남-창원시 진해구 창원시 진해구"
+  },
+  {
+    "id": "경상남-통영시",
+    "display": "경상남 통영시",
+    "province": "경상남",
+    "province_display": "경상남",
+    "district": "경상남-통영시",
+    "district_display": "통영시",
+    "search_text": "경상남 통영시 경상남 경상남-통영시 통영시"
+  },
+  {
+    "id": "경상남-하동군",
+    "display": "경상남 하동군",
+    "province": "경상남",
+    "province_display": "경상남",
+    "district": "경상남-하동군",
+    "district_display": "하동군",
+    "search_text": "경상남 하동군 경상남 경상남-하동군 하동군"
+  },
+  {
+    "id": "경상남-함안군",
+    "display": "경상남 함안군",
+    "province": "경상남",
+    "province_display": "경상남",
+    "district": "경상남-함안군",
+    "district_display": "함안군",
+    "search_text": "경상남 함안군 경상남 경상남-함안군 함안군"
+  },
+  {
+    "id": "경상남-함양군",
+    "display": "경상남 함양군",
+    "province": "경상남",
+    "province_display": "경상남",
+    "district": "경상남-함양군",
+    "district_display": "함양군",
+    "search_text": "경상남 함양군 경상남 경상남-함양군 함양군"
+  },
+  {
+    "id": "경상남-합천군",
+    "display": "경상남 합천군",
+    "province": "경상남",
+    "province_display": "경상남",
+    "district": "경상남-합천군",
+    "district_display": "합천군",
+    "search_text": "경상남 합천군 경상남 경상남-합천군 합천군"
+  },
+  {
+    "id": "경상북-경산시",
+    "display": "경상북 경산시",
+    "province": "경상북",
+    "province_display": "경상북",
+    "district": "경상북-경산시",
+    "district_display": "경산시",
+    "search_text": "경상북 경산시 경상북 경상북-경산시 경산시"
+  },
+  {
+    "id": "경상북-경주시",
+    "display": "경상북 경주시",
+    "province": "경상북",
+    "province_display": "경상북",
+    "district": "경상북-경주시",
+    "district_display": "경주시",
+    "search_text": "경상북 경주시 경상북 경상북-경주시 경주시"
+  },
+  {
+    "id": "경상북-고령군",
+    "display": "경상북 고령군",
+    "province": "경상북",
+    "province_display": "경상북",
+    "district": "경상북-고령군",
+    "district_display": "고령군",
+    "search_text": "경상북 고령군 경상북 경상북-고령군 고령군"
+  },
+  {
+    "id": "경상북-구미시",
+    "display": "경상북 구미시",
+    "province": "경상북",
+    "province_display": "경상북",
+    "district": "경상북-구미시",
+    "district_display": "구미시",
+    "search_text": "경상북 구미시 경상북 경상북-구미시 구미시"
+  },
+  {
+    "id": "경상북-김천시",
+    "display": "경상북 김천시",
+    "province": "경상북",
+    "province_display": "경상북",
+    "district": "경상북-김천시",
+    "district_display": "김천시",
+    "search_text": "경상북 김천시 경상북 경상북-김천시 김천시"
+  },
+  {
+    "id": "경상북-문경시",
+    "display": "경상북 문경시",
+    "province": "경상북",
+    "province_display": "경상북",
+    "district": "경상북-문경시",
+    "district_display": "문경시",
+    "search_text": "경상북 문경시 경상북 경상북-문경시 문경시"
+  },
+  {
+    "id": "경상북-봉화군",
+    "display": "경상북 봉화군",
+    "province": "경상북",
+    "province_display": "경상북",
+    "district": "경상북-봉화군",
+    "district_display": "봉화군",
+    "search_text": "경상북 봉화군 경상북 경상북-봉화군 봉화군"
+  },
+  {
+    "id": "경상북-상주시",
+    "display": "경상북 상주시",
+    "province": "경상북",
+    "province_display": "경상북",
+    "district": "경상북-상주시",
+    "district_display": "상주시",
+    "search_text": "경상북 상주시 경상북 경상북-상주시 상주시"
+  },
+  {
+    "id": "경상북-성주군",
+    "display": "경상북 성주군",
+    "province": "경상북",
+    "province_display": "경상북",
+    "district": "경상북-성주군",
+    "district_display": "성주군",
+    "search_text": "경상북 성주군 경상북 경상북-성주군 성주군"
+  },
+  {
+    "id": "경상북-안동시",
+    "display": "경상북 안동시",
+    "province": "경상북",
+    "province_display": "경상북",
+    "district": "경상북-안동시",
+    "district_display": "안동시",
+    "search_text": "경상북 안동시 경상북 경상북-안동시 안동시"
+  },
+  {
+    "id": "경상북-영덕군",
+    "display": "경상북 영덕군",
+    "province": "경상북",
+    "province_display": "경상북",
+    "district": "경상북-영덕군",
+    "district_display": "영덕군",
+    "search_text": "경상북 영덕군 경상북 경상북-영덕군 영덕군"
+  },
+  {
+    "id": "경상북-영양군",
+    "display": "경상북 영양군",
+    "province": "경상북",
+    "province_display": "경상북",
+    "district": "경상북-영양군",
+    "district_display": "영양군",
+    "search_text": "경상북 영양군 경상북 경상북-영양군 영양군"
+  },
+  {
+    "id": "경상북-영주시",
+    "display": "경상북 영주시",
+    "province": "경상북",
+    "province_display": "경상북",
+    "district": "경상북-영주시",
+    "district_display": "영주시",
+    "search_text": "경상북 영주시 경상북 경상북-영주시 영주시"
+  },
+  {
+    "id": "경상북-영천시",
+    "display": "경상북 영천시",
+    "province": "경상북",
+    "province_display": "경상북",
+    "district": "경상북-영천시",
+    "district_display": "영천시",
+    "search_text": "경상북 영천시 경상북 경상북-영천시 영천시"
+  },
+  {
+    "id": "경상북-예천군",
+    "display": "경상북 예천군",
+    "province": "경상북",
+    "province_display": "경상북",
+    "district": "경상북-예천군",
+    "district_display": "예천군",
+    "search_text": "경상북 예천군 경상북 경상북-예천군 예천군"
+  },
+  {
+    "id": "경상북-울릉군",
+    "display": "경상북 울릉군",
+    "province": "경상북",
+    "province_display": "경상북",
+    "district": "경상북-울릉군",
+    "district_display": "울릉군",
+    "search_text": "경상북 울릉군 경상북 경상북-울릉군 울릉군"
+  },
+  {
+    "id": "경상북-울진군",
+    "display": "경상북 울진군",
+    "province": "경상북",
+    "province_display": "경상북",
+    "district": "경상북-울진군",
+    "district_display": "울진군",
+    "search_text": "경상북 울진군 경상북 경상북-울진군 울진군"
+  },
+  {
+    "id": "경상북-의성군",
+    "display": "경상북 의성군",
+    "province": "경상북",
+    "province_display": "경상북",
+    "district": "경상북-의성군",
+    "district_display": "의성군",
+    "search_text": "경상북 의성군 경상북 경상북-의성군 의성군"
+  },
+  {
+    "id": "경상북-청도군",
+    "display": "경상북 청도군",
+    "province": "경상북",
+    "province_display": "경상북",
+    "district": "경상북-청도군",
+    "district_display": "청도군",
+    "search_text": "경상북 청도군 경상북 경상북-청도군 청도군"
+  },
+  {
+    "id": "경상북-청송군",
+    "display": "경상북 청송군",
+    "province": "경상북",
+    "province_display": "경상북",
+    "district": "경상북-청송군",
+    "district_display": "청송군",
+    "search_text": "경상북 청송군 경상북 경상북-청송군 청송군"
+  },
+  {
+    "id": "경상북-칠곡군",
+    "display": "경상북 칠곡군",
+    "province": "경상북",
+    "province_display": "경상북",
+    "district": "경상북-칠곡군",
+    "district_display": "칠곡군",
+    "search_text": "경상북 칠곡군 경상북 경상북-칠곡군 칠곡군"
+  },
+  {
+    "id": "경상북-포항시 남구",
+    "display": "경상북 포항시 남구",
+    "province": "경상북",
+    "province_display": "경상북",
+    "district": "경상북-포항시 남구",
+    "district_display": "포항시 남구",
+    "search_text": "경상북 포항시 남구 경상북 경상북-포항시 남구 포항시 남구"
+  },
+  {
+    "id": "경상북-포항시 북구",
+    "display": "경상북 포항시 북구",
+    "province": "경상북",
+    "province_display": "경상북",
+    "district": "경상북-포항시 북구",
+    "district_display": "포항시 북구",
+    "search_text": "경상북 포항시 북구 경상북 경상북-포항시 북구 포항시 북구"
+  },
+  {
+    "id": "광주-광산구",
+    "display": "광주광역시 광산구",
+    "province": "광주",
+    "province_display": "광주광역시",
+    "district": "광주-광산구",
+    "district_display": "광산구",
+    "search_text": "광주광역시 광산구 광주 광주-광산구 광산구"
+  },
+  {
+    "id": "광주-남구",
+    "display": "광주광역시 남구",
+    "province": "광주",
+    "province_display": "광주광역시",
+    "district": "광주-남구",
+    "district_display": "남구",
+    "search_text": "광주광역시 남구 광주 광주-남구 남구"
+  },
+  {
+    "id": "광주-동구",
+    "display": "광주광역시 동구",
+    "province": "광주",
+    "province_display": "광주광역시",
+    "district": "광주-동구",
+    "district_display": "동구",
+    "search_text": "광주광역시 동구 광주 광주-동구 동구"
+  },
+  {
+    "id": "광주-북구",
+    "display": "광주광역시 북구",
+    "province": "광주",
+    "province_display": "광주광역시",
+    "district": "광주-북구",
+    "district_display": "북구",
+    "search_text": "광주광역시 북구 광주 광주-북구 북구"
+  },
+  {
+    "id": "광주-서구",
+    "display": "광주광역시 서구",
+    "province": "광주",
+    "province_display": "광주광역시",
+    "district": "광주-서구",
+    "district_display": "서구",
+    "search_text": "광주광역시 서구 광주 광주-서구 서구"
+  },
+  {
+    "id": "대구-군위군",
+    "display": "대구광역시 군위군",
+    "province": "대구",
+    "province_display": "대구광역시",
+    "district": "대구-군위군",
+    "district_display": "군위군",
+    "search_text": "대구광역시 군위군 대구 대구-군위군 군위군"
+  },
+  {
+    "id": "대구-남구",
+    "display": "대구광역시 남구",
+    "province": "대구",
+    "province_display": "대구광역시",
+    "district": "대구-남구",
+    "district_display": "남구",
+    "search_text": "대구광역시 남구 대구 대구-남구 남구"
+  },
+  {
+    "id": "대구-달서구",
+    "display": "대구광역시 달서구",
+    "province": "대구",
+    "province_display": "대구광역시",
+    "district": "대구-달서구",
+    "district_display": "달서구",
+    "search_text": "대구광역시 달서구 대구 대구-달서구 달서구"
+  },
+  {
+    "id": "대구-달성군",
+    "display": "대구광역시 달성군",
+    "province": "대구",
+    "province_display": "대구광역시",
+    "district": "대구-달성군",
+    "district_display": "달성군",
+    "search_text": "대구광역시 달성군 대구 대구-달성군 달성군"
+  },
+  {
+    "id": "대구-동구",
+    "display": "대구광역시 동구",
+    "province": "대구",
+    "province_display": "대구광역시",
+    "district": "대구-동구",
+    "district_display": "동구",
+    "search_text": "대구광역시 동구 대구 대구-동구 동구"
+  },
+  {
+    "id": "대구-북구",
+    "display": "대구광역시 북구",
+    "province": "대구",
+    "province_display": "대구광역시",
+    "district": "대구-북구",
+    "district_display": "북구",
+    "search_text": "대구광역시 북구 대구 대구-북구 북구"
+  },
+  {
+    "id": "대구-서구",
+    "display": "대구광역시 서구",
+    "province": "대구",
+    "province_display": "대구광역시",
+    "district": "대구-서구",
+    "district_display": "서구",
+    "search_text": "대구광역시 서구 대구 대구-서구 서구"
+  },
+  {
+    "id": "대구-수성구",
+    "display": "대구광역시 수성구",
+    "province": "대구",
+    "province_display": "대구광역시",
+    "district": "대구-수성구",
+    "district_display": "수성구",
+    "search_text": "대구광역시 수성구 대구 대구-수성구 수성구"
+  },
+  {
+    "id": "대구-중구",
+    "display": "대구광역시 중구",
+    "province": "대구",
+    "province_display": "대구광역시",
+    "district": "대구-중구",
+    "district_display": "중구",
+    "search_text": "대구광역시 중구 대구 대구-중구 중구"
+  },
+  {
+    "id": "대전-대덕구",
+    "display": "대전광역시 대덕구",
+    "province": "대전",
+    "province_display": "대전광역시",
+    "district": "대전-대덕구",
+    "district_display": "대덕구",
+    "search_text": "대전광역시 대덕구 대전 대전-대덕구 대덕구"
+  },
+  {
+    "id": "대전-동구",
+    "display": "대전광역시 동구",
+    "province": "대전",
+    "province_display": "대전광역시",
+    "district": "대전-동구",
+    "district_display": "동구",
+    "search_text": "대전광역시 동구 대전 대전-동구 동구"
+  },
+  {
+    "id": "대전-서구",
+    "display": "대전광역시 서구",
+    "province": "대전",
+    "province_display": "대전광역시",
+    "district": "대전-서구",
+    "district_display": "서구",
+    "search_text": "대전광역시 서구 대전 대전-서구 서구"
+  },
+  {
+    "id": "대전-유성구",
+    "display": "대전광역시 유성구",
+    "province": "대전",
+    "province_display": "대전광역시",
+    "district": "대전-유성구",
+    "district_display": "유성구",
+    "search_text": "대전광역시 유성구 대전 대전-유성구 유성구"
+  },
+  {
+    "id": "대전-중구",
+    "display": "대전광역시 중구",
+    "province": "대전",
+    "province_display": "대전광역시",
+    "district": "대전-중구",
+    "district_display": "중구",
+    "search_text": "대전광역시 중구 대전 대전-중구 중구"
+  },
+  {
+    "id": "부산-강서구",
+    "display": "부산광역시 강서구",
+    "province": "부산",
+    "province_display": "부산광역시",
+    "district": "부산-강서구",
+    "district_display": "강서구",
+    "search_text": "부산광역시 강서구 부산 부산-강서구 강서구"
+  },
+  {
+    "id": "부산-금정구",
+    "display": "부산광역시 금정구",
+    "province": "부산",
+    "province_display": "부산광역시",
+    "district": "부산-금정구",
+    "district_display": "금정구",
+    "search_text": "부산광역시 금정구 부산 부산-금정구 금정구"
+  },
+  {
+    "id": "부산-기장군",
+    "display": "부산광역시 기장군",
+    "province": "부산",
+    "province_display": "부산광역시",
+    "district": "부산-기장군",
+    "district_display": "기장군",
+    "search_text": "부산광역시 기장군 부산 부산-기장군 기장군"
+  },
+  {
+    "id": "부산-남구",
+    "display": "부산광역시 남구",
+    "province": "부산",
+    "province_display": "부산광역시",
+    "district": "부산-남구",
+    "district_display": "남구",
+    "search_text": "부산광역시 남구 부산 부산-남구 남구"
+  },
+  {
+    "id": "부산-동구",
+    "display": "부산광역시 동구",
+    "province": "부산",
+    "province_display": "부산광역시",
+    "district": "부산-동구",
+    "district_display": "동구",
+    "search_text": "부산광역시 동구 부산 부산-동구 동구"
+  },
+  {
+    "id": "부산-동래구",
+    "display": "부산광역시 동래구",
+    "province": "부산",
+    "province_display": "부산광역시",
+    "district": "부산-동래구",
+    "district_display": "동래구",
+    "search_text": "부산광역시 동래구 부산 부산-동래구 동래구"
+  },
+  {
+    "id": "부산-부산진구",
+    "display": "부산광역시 부산진구",
+    "province": "부산",
+    "province_display": "부산광역시",
+    "district": "부산-부산진구",
+    "district_display": "부산진구",
+    "search_text": "부산광역시 부산진구 부산 부산-부산진구 부산진구"
+  },
+  {
+    "id": "부산-북구",
+    "display": "부산광역시 북구",
+    "province": "부산",
+    "province_display": "부산광역시",
+    "district": "부산-북구",
+    "district_display": "북구",
+    "search_text": "부산광역시 북구 부산 부산-북구 북구"
+  },
+  {
+    "id": "부산-사상구",
+    "display": "부산광역시 사상구",
+    "province": "부산",
+    "province_display": "부산광역시",
+    "district": "부산-사상구",
+    "district_display": "사상구",
+    "search_text": "부산광역시 사상구 부산 부산-사상구 사상구"
+  },
+  {
+    "id": "부산-사하구",
+    "display": "부산광역시 사하구",
+    "province": "부산",
+    "province_display": "부산광역시",
+    "district": "부산-사하구",
+    "district_display": "사하구",
+    "search_text": "부산광역시 사하구 부산 부산-사하구 사하구"
+  },
+  {
+    "id": "부산-서구",
+    "display": "부산광역시 서구",
+    "province": "부산",
+    "province_display": "부산광역시",
+    "district": "부산-서구",
+    "district_display": "서구",
+    "search_text": "부산광역시 서구 부산 부산-서구 서구"
+  },
+  {
+    "id": "부산-수영구",
+    "display": "부산광역시 수영구",
+    "province": "부산",
+    "province_display": "부산광역시",
+    "district": "부산-수영구",
+    "district_display": "수영구",
+    "search_text": "부산광역시 수영구 부산 부산-수영구 수영구"
+  },
+  {
+    "id": "부산-연제구",
+    "display": "부산광역시 연제구",
+    "province": "부산",
+    "province_display": "부산광역시",
+    "district": "부산-연제구",
+    "district_display": "연제구",
+    "search_text": "부산광역시 연제구 부산 부산-연제구 연제구"
+  },
+  {
+    "id": "부산-영도구",
+    "display": "부산광역시 영도구",
+    "province": "부산",
+    "province_display": "부산광역시",
+    "district": "부산-영도구",
+    "district_display": "영도구",
+    "search_text": "부산광역시 영도구 부산 부산-영도구 영도구"
+  },
+  {
+    "id": "부산-중구",
+    "display": "부산광역시 중구",
+    "province": "부산",
+    "province_display": "부산광역시",
+    "district": "부산-중구",
+    "district_display": "중구",
+    "search_text": "부산광역시 중구 부산 부산-중구 중구"
+  },
+  {
+    "id": "부산-해운대구",
+    "display": "부산광역시 해운대구",
+    "province": "부산",
+    "province_display": "부산광역시",
+    "district": "부산-해운대구",
+    "district_display": "해운대구",
+    "search_text": "부산광역시 해운대구 부산 부산-해운대구 해운대구"
+  },
+  {
+    "id": "서울-강남구",
+    "display": "서울특별시 강남구",
+    "province": "서울",
+    "province_display": "서울특별시",
+    "district": "서울-강남구",
+    "district_display": "강남구",
+    "search_text": "서울특별시 강남구 서울 서울-강남구 강남구"
+  },
+  {
+    "id": "서울-강동구",
+    "display": "서울특별시 강동구",
+    "province": "서울",
+    "province_display": "서울특별시",
+    "district": "서울-강동구",
+    "district_display": "강동구",
+    "search_text": "서울특별시 강동구 서울 서울-강동구 강동구"
+  },
+  {
+    "id": "서울-강북구",
+    "display": "서울특별시 강북구",
+    "province": "서울",
+    "province_display": "서울특별시",
+    "district": "서울-강북구",
+    "district_display": "강북구",
+    "search_text": "서울특별시 강북구 서울 서울-강북구 강북구"
+  },
+  {
+    "id": "서울-강서구",
+    "display": "서울특별시 강서구",
+    "province": "서울",
+    "province_display": "서울특별시",
+    "district": "서울-강서구",
+    "district_display": "강서구",
+    "search_text": "서울특별시 강서구 서울 서울-강서구 강서구"
+  },
+  {
+    "id": "서울-관악구",
+    "display": "서울특별시 관악구",
+    "province": "서울",
+    "province_display": "서울특별시",
+    "district": "서울-관악구",
+    "district_display": "관악구",
+    "search_text": "서울특별시 관악구 서울 서울-관악구 관악구"
+  },
+  {
+    "id": "서울-광진구",
+    "display": "서울특별시 광진구",
+    "province": "서울",
+    "province_display": "서울특별시",
+    "district": "서울-광진구",
+    "district_display": "광진구",
+    "search_text": "서울특별시 광진구 서울 서울-광진구 광진구"
+  },
+  {
+    "id": "서울-구로구",
+    "display": "서울특별시 구로구",
+    "province": "서울",
+    "province_display": "서울특별시",
+    "district": "서울-구로구",
+    "district_display": "구로구",
+    "search_text": "서울특별시 구로구 서울 서울-구로구 구로구"
+  },
+  {
+    "id": "서울-금천구",
+    "display": "서울특별시 금천구",
+    "province": "서울",
+    "province_display": "서울특별시",
+    "district": "서울-금천구",
+    "district_display": "금천구",
+    "search_text": "서울특별시 금천구 서울 서울-금천구 금천구"
+  },
+  {
+    "id": "서울-노원구",
+    "display": "서울특별시 노원구",
+    "province": "서울",
+    "province_display": "서울특별시",
+    "district": "서울-노원구",
+    "district_display": "노원구",
+    "search_text": "서울특별시 노원구 서울 서울-노원구 노원구"
+  },
+  {
+    "id": "서울-도봉구",
+    "display": "서울특별시 도봉구",
+    "province": "서울",
+    "province_display": "서울특별시",
+    "district": "서울-도봉구",
+    "district_display": "도봉구",
+    "search_text": "서울특별시 도봉구 서울 서울-도봉구 도봉구"
+  },
+  {
+    "id": "서울-동대문구",
+    "display": "서울특별시 동대문구",
+    "province": "서울",
+    "province_display": "서울특별시",
+    "district": "서울-동대문구",
+    "district_display": "동대문구",
+    "search_text": "서울특별시 동대문구 서울 서울-동대문구 동대문구"
+  },
+  {
+    "id": "서울-동작구",
+    "display": "서울특별시 동작구",
+    "province": "서울",
+    "province_display": "서울특별시",
+    "district": "서울-동작구",
+    "district_display": "동작구",
+    "search_text": "서울특별시 동작구 서울 서울-동작구 동작구"
+  },
+  {
+    "id": "서울-마포구",
+    "display": "서울특별시 마포구",
+    "province": "서울",
+    "province_display": "서울특별시",
+    "district": "서울-마포구",
+    "district_display": "마포구",
+    "search_text": "서울특별시 마포구 서울 서울-마포구 마포구"
+  },
+  {
+    "id": "서울-서대문구",
+    "display": "서울특별시 서대문구",
+    "province": "서울",
+    "province_display": "서울특별시",
+    "district": "서울-서대문구",
+    "district_display": "서대문구",
+    "search_text": "서울특별시 서대문구 서울 서울-서대문구 서대문구"
+  },
+  {
+    "id": "서울-서초구",
+    "display": "서울특별시 서초구",
+    "province": "서울",
+    "province_display": "서울특별시",
+    "district": "서울-서초구",
+    "district_display": "서초구",
+    "search_text": "서울특별시 서초구 서울 서울-서초구 서초구"
+  },
+  {
+    "id": "서울-성동구",
+    "display": "서울특별시 성동구",
+    "province": "서울",
+    "province_display": "서울특별시",
+    "district": "서울-성동구",
+    "district_display": "성동구",
+    "search_text": "서울특별시 성동구 서울 서울-성동구 성동구"
+  },
+  {
+    "id": "서울-성북구",
+    "display": "서울특별시 성북구",
+    "province": "서울",
+    "province_display": "서울특별시",
+    "district": "서울-성북구",
+    "district_display": "성북구",
+    "search_text": "서울특별시 성북구 서울 서울-성북구 성북구"
+  },
+  {
+    "id": "서울-송파구",
+    "display": "서울특별시 송파구",
+    "province": "서울",
+    "province_display": "서울특별시",
+    "district": "서울-송파구",
+    "district_display": "송파구",
+    "search_text": "서울특별시 송파구 서울 서울-송파구 송파구"
+  },
+  {
+    "id": "서울-양천구",
+    "display": "서울특별시 양천구",
+    "province": "서울",
+    "province_display": "서울특별시",
+    "district": "서울-양천구",
+    "district_display": "양천구",
+    "search_text": "서울특별시 양천구 서울 서울-양천구 양천구"
+  },
+  {
+    "id": "서울-영등포구",
+    "display": "서울특별시 영등포구",
+    "province": "서울",
+    "province_display": "서울특별시",
+    "district": "서울-영등포구",
+    "district_display": "영등포구",
+    "search_text": "서울특별시 영등포구 서울 서울-영등포구 영등포구"
+  },
+  {
+    "id": "서울-용산구",
+    "display": "서울특별시 용산구",
+    "province": "서울",
+    "province_display": "서울특별시",
+    "district": "서울-용산구",
+    "district_display": "용산구",
+    "search_text": "서울특별시 용산구 서울 서울-용산구 용산구"
+  },
+  {
+    "id": "서울-은평구",
+    "display": "서울특별시 은평구",
+    "province": "서울",
+    "province_display": "서울특별시",
+    "district": "서울-은평구",
+    "district_display": "은평구",
+    "search_text": "서울특별시 은평구 서울 서울-은평구 은평구"
+  },
+  {
+    "id": "서울-종로구",
+    "display": "서울특별시 종로구",
+    "province": "서울",
+    "province_display": "서울특별시",
+    "district": "서울-종로구",
+    "district_display": "종로구",
+    "search_text": "서울특별시 종로구 서울 서울-종로구 종로구"
+  },
+  {
+    "id": "서울-중구",
+    "display": "서울특별시 중구",
+    "province": "서울",
+    "province_display": "서울특별시",
+    "district": "서울-중구",
+    "district_display": "중구",
+    "search_text": "서울특별시 중구 서울 서울-중구 중구"
+  },
+  {
+    "id": "서울-중랑구",
+    "display": "서울특별시 중랑구",
+    "province": "서울",
+    "province_display": "서울특별시",
+    "district": "서울-중랑구",
+    "district_display": "중랑구",
+    "search_text": "서울특별시 중랑구 서울 서울-중랑구 중랑구"
+  },
+  {
+    "id": "세종-세종시",
+    "display": "세종특별자치시 세종시",
+    "province": "세종",
+    "province_display": "세종특별자치시",
+    "district": "세종-세종시",
+    "district_display": "세종시",
+    "search_text": "세종특별자치시 세종시 세종 세종-세종시 세종시"
+  },
+  {
+    "id": "울산-남구",
+    "display": "울산광역시 남구",
+    "province": "울산",
+    "province_display": "울산광역시",
+    "district": "울산-남구",
+    "district_display": "남구",
+    "search_text": "울산광역시 남구 울산 울산-남구 남구"
+  },
+  {
+    "id": "울산-동구",
+    "display": "울산광역시 동구",
+    "province": "울산",
+    "province_display": "울산광역시",
+    "district": "울산-동구",
+    "district_display": "동구",
+    "search_text": "울산광역시 동구 울산 울산-동구 동구"
+  },
+  {
+    "id": "울산-북구",
+    "display": "울산광역시 북구",
+    "province": "울산",
+    "province_display": "울산광역시",
+    "district": "울산-북구",
+    "district_display": "북구",
+    "search_text": "울산광역시 북구 울산 울산-북구 북구"
+  },
+  {
+    "id": "울산-울주군",
+    "display": "울산광역시 울주군",
+    "province": "울산",
+    "province_display": "울산광역시",
+    "district": "울산-울주군",
+    "district_display": "울주군",
+    "search_text": "울산광역시 울주군 울산 울산-울주군 울주군"
+  },
+  {
+    "id": "울산-중구",
+    "display": "울산광역시 중구",
+    "province": "울산",
+    "province_display": "울산광역시",
+    "district": "울산-중구",
+    "district_display": "중구",
+    "search_text": "울산광역시 중구 울산 울산-중구 중구"
+  },
+  {
+    "id": "인천-강화군",
+    "display": "인천광역시 강화군",
+    "province": "인천",
+    "province_display": "인천광역시",
+    "district": "인천-강화군",
+    "district_display": "강화군",
+    "search_text": "인천광역시 강화군 인천 인천-강화군 강화군"
+  },
+  {
+    "id": "인천-계양구",
+    "display": "인천광역시 계양구",
+    "province": "인천",
+    "province_display": "인천광역시",
+    "district": "인천-계양구",
+    "district_display": "계양구",
+    "search_text": "인천광역시 계양구 인천 인천-계양구 계양구"
+  },
+  {
+    "id": "인천-남동구",
+    "display": "인천광역시 남동구",
+    "province": "인천",
+    "province_display": "인천광역시",
+    "district": "인천-남동구",
+    "district_display": "남동구",
+    "search_text": "인천광역시 남동구 인천 인천-남동구 남동구"
+  },
+  {
+    "id": "인천-동구",
+    "display": "인천광역시 동구",
+    "province": "인천",
+    "province_display": "인천광역시",
+    "district": "인천-동구",
+    "district_display": "동구",
+    "search_text": "인천광역시 동구 인천 인천-동구 동구"
+  },
+  {
+    "id": "인천-미추홀구",
+    "display": "인천광역시 미추홀구",
+    "province": "인천",
+    "province_display": "인천광역시",
+    "district": "인천-미추홀구",
+    "district_display": "미추홀구",
+    "search_text": "인천광역시 미추홀구 인천 인천-미추홀구 미추홀구"
+  },
+  {
+    "id": "인천-부평구",
+    "display": "인천광역시 부평구",
+    "province": "인천",
+    "province_display": "인천광역시",
+    "district": "인천-부평구",
+    "district_display": "부평구",
+    "search_text": "인천광역시 부평구 인천 인천-부평구 부평구"
+  },
+  {
+    "id": "인천-서구",
+    "display": "인천광역시 서구",
+    "province": "인천",
+    "province_display": "인천광역시",
+    "district": "인천-서구",
+    "district_display": "서구",
+    "search_text": "인천광역시 서구 인천 인천-서구 서구"
+  },
+  {
+    "id": "인천-연수구",
+    "display": "인천광역시 연수구",
+    "province": "인천",
+    "province_display": "인천광역시",
+    "district": "인천-연수구",
+    "district_display": "연수구",
+    "search_text": "인천광역시 연수구 인천 인천-연수구 연수구"
+  },
+  {
+    "id": "인천-옹진군",
+    "display": "인천광역시 옹진군",
+    "province": "인천",
+    "province_display": "인천광역시",
+    "district": "인천-옹진군",
+    "district_display": "옹진군",
+    "search_text": "인천광역시 옹진군 인천 인천-옹진군 옹진군"
+  },
+  {
+    "id": "인천-중구",
+    "display": "인천광역시 중구",
+    "province": "인천",
+    "province_display": "인천광역시",
+    "district": "인천-중구",
+    "district_display": "중구",
+    "search_text": "인천광역시 중구 인천 인천-중구 중구"
+  },
+  {
+    "id": "전라남-강진군",
+    "display": "전라남 강진군",
+    "province": "전라남",
+    "province_display": "전라남",
+    "district": "전라남-강진군",
+    "district_display": "강진군",
+    "search_text": "전라남 강진군 전라남 전라남-강진군 강진군"
+  },
+  {
+    "id": "전라남-고흥군",
+    "display": "전라남 고흥군",
+    "province": "전라남",
+    "province_display": "전라남",
+    "district": "전라남-고흥군",
+    "district_display": "고흥군",
+    "search_text": "전라남 고흥군 전라남 전라남-고흥군 고흥군"
+  },
+  {
+    "id": "전라남-곡성군",
+    "display": "전라남 곡성군",
+    "province": "전라남",
+    "province_display": "전라남",
+    "district": "전라남-곡성군",
+    "district_display": "곡성군",
+    "search_text": "전라남 곡성군 전라남 전라남-곡성군 곡성군"
+  },
+  {
+    "id": "전라남-광양시",
+    "display": "전라남 광양시",
+    "province": "전라남",
+    "province_display": "전라남",
+    "district": "전라남-광양시",
+    "district_display": "광양시",
+    "search_text": "전라남 광양시 전라남 전라남-광양시 광양시"
+  },
+  {
+    "id": "전라남-구례군",
+    "display": "전라남 구례군",
+    "province": "전라남",
+    "province_display": "전라남",
+    "district": "전라남-구례군",
+    "district_display": "구례군",
+    "search_text": "전라남 구례군 전라남 전라남-구례군 구례군"
+  },
+  {
+    "id": "전라남-나주시",
+    "display": "전라남 나주시",
+    "province": "전라남",
+    "province_display": "전라남",
+    "district": "전라남-나주시",
+    "district_display": "나주시",
+    "search_text": "전라남 나주시 전라남 전라남-나주시 나주시"
+  },
+  {
+    "id": "전라남-담양군",
+    "display": "전라남 담양군",
+    "province": "전라남",
+    "province_display": "전라남",
+    "district": "전라남-담양군",
+    "district_display": "담양군",
+    "search_text": "전라남 담양군 전라남 전라남-담양군 담양군"
+  },
+  {
+    "id": "전라남-목포시",
+    "display": "전라남 목포시",
+    "province": "전라남",
+    "province_display": "전라남",
+    "district": "전라남-목포시",
+    "district_display": "목포시",
+    "search_text": "전라남 목포시 전라남 전라남-목포시 목포시"
+  },
+  {
+    "id": "전라남-무안군",
+    "display": "전라남 무안군",
+    "province": "전라남",
+    "province_display": "전라남",
+    "district": "전라남-무안군",
+    "district_display": "무안군",
+    "search_text": "전라남 무안군 전라남 전라남-무안군 무안군"
+  },
+  {
+    "id": "전라남-보성군",
+    "display": "전라남 보성군",
+    "province": "전라남",
+    "province_display": "전라남",
+    "district": "전라남-보성군",
+    "district_display": "보성군",
+    "search_text": "전라남 보성군 전라남 전라남-보성군 보성군"
+  },
+  {
+    "id": "전라남-순천시",
+    "display": "전라남 순천시",
+    "province": "전라남",
+    "province_display": "전라남",
+    "district": "전라남-순천시",
+    "district_display": "순천시",
+    "search_text": "전라남 순천시 전라남 전라남-순천시 순천시"
+  },
+  {
+    "id": "전라남-신안군",
+    "display": "전라남 신안군",
+    "province": "전라남",
+    "province_display": "전라남",
+    "district": "전라남-신안군",
+    "district_display": "신안군",
+    "search_text": "전라남 신안군 전라남 전라남-신안군 신안군"
+  },
+  {
+    "id": "전라남-여수시",
+    "display": "전라남 여수시",
+    "province": "전라남",
+    "province_display": "전라남",
+    "district": "전라남-여수시",
+    "district_display": "여수시",
+    "search_text": "전라남 여수시 전라남 전라남-여수시 여수시"
+  },
+  {
+    "id": "전라남-영광군",
+    "display": "전라남 영광군",
+    "province": "전라남",
+    "province_display": "전라남",
+    "district": "전라남-영광군",
+    "district_display": "영광군",
+    "search_text": "전라남 영광군 전라남 전라남-영광군 영광군"
+  },
+  {
+    "id": "전라남-영암군",
+    "display": "전라남 영암군",
+    "province": "전라남",
+    "province_display": "전라남",
+    "district": "전라남-영암군",
+    "district_display": "영암군",
+    "search_text": "전라남 영암군 전라남 전라남-영암군 영암군"
+  },
+  {
+    "id": "전라남-완도군",
+    "display": "전라남 완도군",
+    "province": "전라남",
+    "province_display": "전라남",
+    "district": "전라남-완도군",
+    "district_display": "완도군",
+    "search_text": "전라남 완도군 전라남 전라남-완도군 완도군"
+  },
+  {
+    "id": "전라남-장성군",
+    "display": "전라남 장성군",
+    "province": "전라남",
+    "province_display": "전라남",
+    "district": "전라남-장성군",
+    "district_display": "장성군",
+    "search_text": "전라남 장성군 전라남 전라남-장성군 장성군"
+  },
+  {
+    "id": "전라남-장흥군",
+    "display": "전라남 장흥군",
+    "province": "전라남",
+    "province_display": "전라남",
+    "district": "전라남-장흥군",
+    "district_display": "장흥군",
+    "search_text": "전라남 장흥군 전라남 전라남-장흥군 장흥군"
+  },
+  {
+    "id": "전라남-진도군",
+    "display": "전라남 진도군",
+    "province": "전라남",
+    "province_display": "전라남",
+    "district": "전라남-진도군",
+    "district_display": "진도군",
+    "search_text": "전라남 진도군 전라남 전라남-진도군 진도군"
+  },
+  {
+    "id": "전라남-함평군",
+    "display": "전라남 함평군",
+    "province": "전라남",
+    "province_display": "전라남",
+    "district": "전라남-함평군",
+    "district_display": "함평군",
+    "search_text": "전라남 함평군 전라남 전라남-함평군 함평군"
+  },
+  {
+    "id": "전라남-해남군",
+    "display": "전라남 해남군",
+    "province": "전라남",
+    "province_display": "전라남",
+    "district": "전라남-해남군",
+    "district_display": "해남군",
+    "search_text": "전라남 해남군 전라남 전라남-해남군 해남군"
+  },
+  {
+    "id": "전라남-화순군",
+    "display": "전라남 화순군",
+    "province": "전라남",
+    "province_display": "전라남",
+    "district": "전라남-화순군",
+    "district_display": "화순군",
+    "search_text": "전라남 화순군 전라남 전라남-화순군 화순군"
+  },
+  {
+    "id": "전북-고창군",
+    "display": "전북특별자치도 고창군",
+    "province": "전북",
+    "province_display": "전북특별자치도",
+    "district": "전북-고창군",
+    "district_display": "고창군",
+    "search_text": "전북특별자치도 고창군 전북 전북-고창군 고창군"
+  },
+  {
+    "id": "전북-군산시",
+    "display": "전북특별자치도 군산시",
+    "province": "전북",
+    "province_display": "전북특별자치도",
+    "district": "전북-군산시",
+    "district_display": "군산시",
+    "search_text": "전북특별자치도 군산시 전북 전북-군산시 군산시"
+  },
+  {
+    "id": "전북-김제시",
+    "display": "전북특별자치도 김제시",
+    "province": "전북",
+    "province_display": "전북특별자치도",
+    "district": "전북-김제시",
+    "district_display": "김제시",
+    "search_text": "전북특별자치도 김제시 전북 전북-김제시 김제시"
+  },
+  {
+    "id": "전북-남원시",
+    "display": "전북특별자치도 남원시",
+    "province": "전북",
+    "province_display": "전북특별자치도",
+    "district": "전북-남원시",
+    "district_display": "남원시",
+    "search_text": "전북특별자치도 남원시 전북 전북-남원시 남원시"
+  },
+  {
+    "id": "전북-무주군",
+    "display": "전북특별자치도 무주군",
+    "province": "전북",
+    "province_display": "전북특별자치도",
+    "district": "전북-무주군",
+    "district_display": "무주군",
+    "search_text": "전북특별자치도 무주군 전북 전북-무주군 무주군"
+  },
+  {
+    "id": "전북-부안군",
+    "display": "전북특별자치도 부안군",
+    "province": "전북",
+    "province_display": "전북특별자치도",
+    "district": "전북-부안군",
+    "district_display": "부안군",
+    "search_text": "전북특별자치도 부안군 전북 전북-부안군 부안군"
+  },
+  {
+    "id": "전북-순창군",
+    "display": "전북특별자치도 순창군",
+    "province": "전북",
+    "province_display": "전북특별자치도",
+    "district": "전북-순창군",
+    "district_display": "순창군",
+    "search_text": "전북특별자치도 순창군 전북 전북-순창군 순창군"
+  },
+  {
+    "id": "전북-완주군",
+    "display": "전북특별자치도 완주군",
+    "province": "전북",
+    "province_display": "전북특별자치도",
+    "district": "전북-완주군",
+    "district_display": "완주군",
+    "search_text": "전북특별자치도 완주군 전북 전북-완주군 완주군"
+  },
+  {
+    "id": "전북-익산시",
+    "display": "전북특별자치도 익산시",
+    "province": "전북",
+    "province_display": "전북특별자치도",
+    "district": "전북-익산시",
+    "district_display": "익산시",
+    "search_text": "전북특별자치도 익산시 전북 전북-익산시 익산시"
+  },
+  {
+    "id": "전북-임실군",
+    "display": "전북특별자치도 임실군",
+    "province": "전북",
+    "province_display": "전북특별자치도",
+    "district": "전북-임실군",
+    "district_display": "임실군",
+    "search_text": "전북특별자치도 임실군 전북 전북-임실군 임실군"
+  },
+  {
+    "id": "전북-장수군",
+    "display": "전북특별자치도 장수군",
+    "province": "전북",
+    "province_display": "전북특별자치도",
+    "district": "전북-장수군",
+    "district_display": "장수군",
+    "search_text": "전북특별자치도 장수군 전북 전북-장수군 장수군"
+  },
+  {
+    "id": "전북-전주시 덕진구",
+    "display": "전북특별자치도 전주시 덕진구",
+    "province": "전북",
+    "province_display": "전북특별자치도",
+    "district": "전북-전주시 덕진구",
+    "district_display": "전주시 덕진구",
+    "search_text": "전북특별자치도 전주시 덕진구 전북 전북-전주시 덕진구 전주시 덕진구"
+  },
+  {
+    "id": "전북-전주시 완산구",
+    "display": "전북특별자치도 전주시 완산구",
+    "province": "전북",
+    "province_display": "전북특별자치도",
+    "district": "전북-전주시 완산구",
+    "district_display": "전주시 완산구",
+    "search_text": "전북특별자치도 전주시 완산구 전북 전북-전주시 완산구 전주시 완산구"
+  },
+  {
+    "id": "전북-정읍시",
+    "display": "전북특별자치도 정읍시",
+    "province": "전북",
+    "province_display": "전북특별자치도",
+    "district": "전북-정읍시",
+    "district_display": "정읍시",
+    "search_text": "전북특별자치도 정읍시 전북 전북-정읍시 정읍시"
+  },
+  {
+    "id": "전북-진안군",
+    "display": "전북특별자치도 진안군",
+    "province": "전북",
+    "province_display": "전북특별자치도",
+    "district": "전북-진안군",
+    "district_display": "진안군",
+    "search_text": "전북특별자치도 진안군 전북 전북-진안군 진안군"
+  },
+  {
+    "id": "제주-서귀포시",
+    "display": "제주특별자치도 서귀포시",
+    "province": "제주",
+    "province_display": "제주특별자치도",
+    "district": "제주-서귀포시",
+    "district_display": "서귀포시",
+    "search_text": "제주특별자치도 서귀포시 제주 제주-서귀포시 서귀포시"
+  },
+  {
+    "id": "제주-제주시",
+    "display": "제주특별자치도 제주시",
+    "province": "제주",
+    "province_display": "제주특별자치도",
+    "district": "제주-제주시",
+    "district_display": "제주시",
+    "search_text": "제주특별자치도 제주시 제주 제주-제주시 제주시"
+  },
+  {
+    "id": "충청남-계룡시",
+    "display": "충청남 계룡시",
+    "province": "충청남",
+    "province_display": "충청남",
+    "district": "충청남-계룡시",
+    "district_display": "계룡시",
+    "search_text": "충청남 계룡시 충청남 충청남-계룡시 계룡시"
+  },
+  {
+    "id": "충청남-공주시",
+    "display": "충청남 공주시",
+    "province": "충청남",
+    "province_display": "충청남",
+    "district": "충청남-공주시",
+    "district_display": "공주시",
+    "search_text": "충청남 공주시 충청남 충청남-공주시 공주시"
+  },
+  {
+    "id": "충청남-금산군",
+    "display": "충청남 금산군",
+    "province": "충청남",
+    "province_display": "충청남",
+    "district": "충청남-금산군",
+    "district_display": "금산군",
+    "search_text": "충청남 금산군 충청남 충청남-금산군 금산군"
+  },
+  {
+    "id": "충청남-논산시",
+    "display": "충청남 논산시",
+    "province": "충청남",
+    "province_display": "충청남",
+    "district": "충청남-논산시",
+    "district_display": "논산시",
+    "search_text": "충청남 논산시 충청남 충청남-논산시 논산시"
+  },
+  {
+    "id": "충청남-당진시",
+    "display": "충청남 당진시",
+    "province": "충청남",
+    "province_display": "충청남",
+    "district": "충청남-당진시",
+    "district_display": "당진시",
+    "search_text": "충청남 당진시 충청남 충청남-당진시 당진시"
+  },
+  {
+    "id": "충청남-보령시",
+    "display": "충청남 보령시",
+    "province": "충청남",
+    "province_display": "충청남",
+    "district": "충청남-보령시",
+    "district_display": "보령시",
+    "search_text": "충청남 보령시 충청남 충청남-보령시 보령시"
+  },
+  {
+    "id": "충청남-부여군",
+    "display": "충청남 부여군",
+    "province": "충청남",
+    "province_display": "충청남",
+    "district": "충청남-부여군",
+    "district_display": "부여군",
+    "search_text": "충청남 부여군 충청남 충청남-부여군 부여군"
+  },
+  {
+    "id": "충청남-서산시",
+    "display": "충청남 서산시",
+    "province": "충청남",
+    "province_display": "충청남",
+    "district": "충청남-서산시",
+    "district_display": "서산시",
+    "search_text": "충청남 서산시 충청남 충청남-서산시 서산시"
+  },
+  {
+    "id": "충청남-서천군",
+    "display": "충청남 서천군",
+    "province": "충청남",
+    "province_display": "충청남",
+    "district": "충청남-서천군",
+    "district_display": "서천군",
+    "search_text": "충청남 서천군 충청남 충청남-서천군 서천군"
+  },
+  {
+    "id": "충청남-아산시",
+    "display": "충청남 아산시",
+    "province": "충청남",
+    "province_display": "충청남",
+    "district": "충청남-아산시",
+    "district_display": "아산시",
+    "search_text": "충청남 아산시 충청남 충청남-아산시 아산시"
+  },
+  {
+    "id": "충청남-예산군",
+    "display": "충청남 예산군",
+    "province": "충청남",
+    "province_display": "충청남",
+    "district": "충청남-예산군",
+    "district_display": "예산군",
+    "search_text": "충청남 예산군 충청남 충청남-예산군 예산군"
+  },
+  {
+    "id": "충청남-천안시 동남구",
+    "display": "충청남 천안시 동남구",
+    "province": "충청남",
+    "province_display": "충청남",
+    "district": "충청남-천안시 동남구",
+    "district_display": "천안시 동남구",
+    "search_text": "충청남 천안시 동남구 충청남 충청남-천안시 동남구 천안시 동남구"
+  },
+  {
+    "id": "충청남-천안시 서북구",
+    "display": "충청남 천안시 서북구",
+    "province": "충청남",
+    "province_display": "충청남",
+    "district": "충청남-천안시 서북구",
+    "district_display": "천안시 서북구",
+    "search_text": "충청남 천안시 서북구 충청남 충청남-천안시 서북구 천안시 서북구"
+  },
+  {
+    "id": "충청남-청양군",
+    "display": "충청남 청양군",
+    "province": "충청남",
+    "province_display": "충청남",
+    "district": "충청남-청양군",
+    "district_display": "청양군",
+    "search_text": "충청남 청양군 충청남 충청남-청양군 청양군"
+  },
+  {
+    "id": "충청남-태안군",
+    "display": "충청남 태안군",
+    "province": "충청남",
+    "province_display": "충청남",
+    "district": "충청남-태안군",
+    "district_display": "태안군",
+    "search_text": "충청남 태안군 충청남 충청남-태안군 태안군"
+  },
+  {
+    "id": "충청남-홍성군",
+    "display": "충청남 홍성군",
+    "province": "충청남",
+    "province_display": "충청남",
+    "district": "충청남-홍성군",
+    "district_display": "홍성군",
+    "search_text": "충청남 홍성군 충청남 충청남-홍성군 홍성군"
+  },
+  {
+    "id": "충청북-괴산군",
+    "display": "충청북 괴산군",
+    "province": "충청북",
+    "province_display": "충청북",
+    "district": "충청북-괴산군",
+    "district_display": "괴산군",
+    "search_text": "충청북 괴산군 충청북 충청북-괴산군 괴산군"
+  },
+  {
+    "id": "충청북-단양군",
+    "display": "충청북 단양군",
+    "province": "충청북",
+    "province_display": "충청북",
+    "district": "충청북-단양군",
+    "district_display": "단양군",
+    "search_text": "충청북 단양군 충청북 충청북-단양군 단양군"
+  },
+  {
+    "id": "충청북-보은군",
+    "display": "충청북 보은군",
+    "province": "충청북",
+    "province_display": "충청북",
+    "district": "충청북-보은군",
+    "district_display": "보은군",
+    "search_text": "충청북 보은군 충청북 충청북-보은군 보은군"
+  },
+  {
+    "id": "충청북-영동군",
+    "display": "충청북 영동군",
+    "province": "충청북",
+    "province_display": "충청북",
+    "district": "충청북-영동군",
+    "district_display": "영동군",
+    "search_text": "충청북 영동군 충청북 충청북-영동군 영동군"
+  },
+  {
+    "id": "충청북-옥천군",
+    "display": "충청북 옥천군",
+    "province": "충청북",
+    "province_display": "충청북",
+    "district": "충청북-옥천군",
+    "district_display": "옥천군",
+    "search_text": "충청북 옥천군 충청북 충청북-옥천군 옥천군"
+  },
+  {
+    "id": "충청북-음성군",
+    "display": "충청북 음성군",
+    "province": "충청북",
+    "province_display": "충청북",
+    "district": "충청북-음성군",
+    "district_display": "음성군",
+    "search_text": "충청북 음성군 충청북 충청북-음성군 음성군"
+  },
+  {
+    "id": "충청북-제천시",
+    "display": "충청북 제천시",
+    "province": "충청북",
+    "province_display": "충청북",
+    "district": "충청북-제천시",
+    "district_display": "제천시",
+    "search_text": "충청북 제천시 충청북 충청북-제천시 제천시"
+  },
+  {
+    "id": "충청북-증평군",
+    "display": "충청북 증평군",
+    "province": "충청북",
+    "province_display": "충청북",
+    "district": "충청북-증평군",
+    "district_display": "증평군",
+    "search_text": "충청북 증평군 충청북 충청북-증평군 증평군"
+  },
+  {
+    "id": "충청북-진천군",
+    "display": "충청북 진천군",
+    "province": "충청북",
+    "province_display": "충청북",
+    "district": "충청북-진천군",
+    "district_display": "진천군",
+    "search_text": "충청북 진천군 충청북 충청북-진천군 진천군"
+  },
+  {
+    "id": "충청북-청주시 상당구",
+    "display": "충청북 청주시 상당구",
+    "province": "충청북",
+    "province_display": "충청북",
+    "district": "충청북-청주시 상당구",
+    "district_display": "청주시 상당구",
+    "search_text": "충청북 청주시 상당구 충청북 충청북-청주시 상당구 청주시 상당구"
+  },
+  {
+    "id": "충청북-청주시 서원구",
+    "display": "충청북 청주시 서원구",
+    "province": "충청북",
+    "province_display": "충청북",
+    "district": "충청북-청주시 서원구",
+    "district_display": "청주시 서원구",
+    "search_text": "충청북 청주시 서원구 충청북 충청북-청주시 서원구 청주시 서원구"
+  },
+  {
+    "id": "충청북-청주시 청원구",
+    "display": "충청북 청주시 청원구",
+    "province": "충청북",
+    "province_display": "충청북",
+    "district": "충청북-청주시 청원구",
+    "district_display": "청주시 청원구",
+    "search_text": "충청북 청주시 청원구 충청북 충청북-청주시 청원구 청주시 청원구"
+  },
+  {
+    "id": "충청북-청주시 흥덕구",
+    "display": "충청북 청주시 흥덕구",
+    "province": "충청북",
+    "province_display": "충청북",
+    "district": "충청북-청주시 흥덕구",
+    "district_display": "청주시 흥덕구",
+    "search_text": "충청북 청주시 흥덕구 충청북 충청북-청주시 흥덕구 청주시 흥덕구"
+  },
+  {
+    "id": "충청북-충주시",
+    "display": "충청북 충주시",
+    "province": "충청북",
+    "province_display": "충청북",
+    "district": "충청북-충주시",
+    "district_display": "충주시",
+    "search_text": "충청북 충주시 충청북 충청북-충주시 충주시"
+  }
+]
